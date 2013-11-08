@@ -1,5 +1,5 @@
 # Hello world!
-Een eerste presentatie in remarkable
+Een eerste presentatie in remarkable van Nicole Frank
 
 
 
@@ -13,7 +13,7 @@ Een eerste presentatie in remarkable
 
 - heb ik geleerd wat git/github zijn
 - wat Markdown is
-- hoe ik met remarkalble een presentatie maak
+- hoe ik met remarkable een presentatie maak
 
 
 
@@ -32,24 +32,27 @@ November 8, 2013
 
 !
 
-###A-History-Of-Graphic-Design-INFOGRAPHIC
-## ![history of design](http://www.visualinformation.info/wp-content/uploads/2012/01/A-History-Of-Graphic-Design-INFOGRAPHIC1.jpg)
+##A-History-Of-Graphic-Design-INFOGRAPHIC
+
+
+![history of design](http://www.visualinformation.info/wp-content/uploads/2012/01/A-History-Of-Graphic-Design-INFOGRAPHIC1.jpg)
 
 
 
 !
 
-![history of design](http://1.bp.blogspot.com/_dCivHARd6iM/TEmBHBgJb2I/AAAAAAAAAhs/ABZWjIDgZLc/s1600/shapesetbytimfishlock.jpg)
+![Afbeelding Typografie](http://1.bp.blogspot.com/_dCivHARd6iM/TEmBHBgJb2I/AAAAAAAAAhs/ABZWjIDgZLc/s1600/shapesetbytimfishlock.jpg)
+
+
+
+
+
+
+
+!
 **Ingevoegde video**
 
-
-
-
-
-
-!
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=NtGZuFt0YXc)
+![Video Mevis en van Deursen](http://img.youtube.com/vi/NtGZuFt0YXc/0.jpg)(http://www.youtube.com/watch?v=NtGZuFt0YXc)
 
 
 
