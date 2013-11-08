@@ -43,9 +43,9 @@ alt="Stedelijk.png" width="240" height="180" border="10" /></a>
 
 ![nicole](http://behance.vo.llnwd.net/profiles14/692026/projects/6115157/6707e43e1519fac5c7c1168cb69c83f2.jpg)
 
+!
 
-
-# ![nicole](http://static.cinemagia.ro/img/db/actor/18/79/74/nicole-scherzinger-568059l.jpg)
+![nicole](http://static.cinemagia.ro/img/db/actor/18/79/74/nicole-scherzinger-568059l.jpg)
 
 
 
