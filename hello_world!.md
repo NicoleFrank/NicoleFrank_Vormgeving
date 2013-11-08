@@ -22,20 +22,32 @@ Een eerste presentatie in remarkable
 
 # vragen?
 
+
+
+
 !
 November 8, 2013
 
 [http://intra.iam.hva.nl/]
 
-## Nicole
+
 ###A-History-Of-Graphic-Design-INFOGRAPHIC
 
-**A-History-Of-Graphic-Design-INFOGRAPHIC**
+
 
 
 ## ![history of design](http://www.visualinformation.info/wp-content/uploads/2012/01/A-History-Of-Graphic-Design-INFOGRAPHIC1.jpg)
 
+
+
+!
+
+**Ingevoegde video**
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=NtGZuFt0YXc)
+
+
+
 
 
 
