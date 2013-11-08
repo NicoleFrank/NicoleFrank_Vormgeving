@@ -50,11 +50,12 @@ November 8, 2013
 
 
 !
+
+
+##Video
 **Ingevoegde video**
 
 ![Video Mevis en van Deursen](http://img.youtube.com/vi/NtGZuFt0YXc/0.jpg)(http://www.youtube.com/watch?v=NtGZuFt0YXc)
-
-
 
 
 
@@ -63,3 +64,7 @@ November 8, 2013
 
 . Citaten zien er uit als geciteerde emails
 
+
+
+
+!
