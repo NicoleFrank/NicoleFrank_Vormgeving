@@ -30,19 +30,24 @@ November 8, 2013
 
 [http://intra.iam.hva.nl/]
 
+!
 
 ###A-History-Of-Graphic-Design-INFOGRAPHIC
-
-
-
-
 ## ![history of design](http://www.visualinformation.info/wp-content/uploads/2012/01/A-History-Of-Graphic-Design-INFOGRAPHIC1.jpg)
 
 
 
 !
 
+![history of design](http://1.bp.blogspot.com/_dCivHARd6iM/TEmBHBgJb2I/AAAAAAAAAhs/ABZWjIDgZLc/s1600/shapesetbytimfishlock.jpg)
 **Ingevoegde video**
+
+
+
+
+
+
+!
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=NtGZuFt0YXc)
 
